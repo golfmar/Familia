@@ -1,12 +1,1 @@
-любые ресурсы переносятся на dist только если они заведены в верстку
-
-
-в css надо 
-менять путь к шрифтам на ../fonts/DrukCyr-Bold.eot
-
-в js 
-удалять type="module" crossorigin
-<script  src="./assets/index.js"></script>
-и перекидывать его вниз
-
 
