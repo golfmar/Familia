@@ -1,0 +1,10 @@
+.btn-empty {
+  border-radius: 5px;
+  color: #959595;
+  border: solid 1px #959595;
+  background-color: $white;
+  &:hover {
+    color: $white;
+    background-color: $activ;
+  }
+}

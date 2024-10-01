@@ -1,0 +1,39 @@
+{
+  "name": "start",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "browserslist": [
+    "cover 99.5%"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "vite": "^5.4.8",
+    "vite-plugin-dynamic-import": "^1.2.2",
+    "vite-plugin-pug": "^0.3.2",
+    "vite-plugin-svg-sprite": "^0.5.2"
+  },
+  "dependencies": {
+    "@vitejs/plugin-legacy": "^5.4.2",
+    "@vitejs/plugin-vue": "^5.1.4",
+    "@vituum/vite-plugin-postcss": "^1.1.0",
+    "@vuepic/vue-datepicker": "^9.0.3",
+    "plyr": "^3.7.2",
+    "postcss-nesting": "^10.2.0",
+    "sass": "^1.54.9",
+    "swiper": "^8.4.2",
+    "typed.js": "^2.0.12",
+    "vite-aliases": "^0.9.2",
+    "vite-plugin-font": "^2.1.5",
+    "vite-plugin-imagemin": "^0.6.1",
+    "vite-plugin-pug-transformer": "^1.0.5",
+    "vite-plugin-static-copy": "^1.0.6",
+    "vite-plugin-svg-spriter": "^1.0.0"
+  }
+}

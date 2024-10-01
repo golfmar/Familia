@@ -1,0 +1,8 @@
+.btn-success {
+  background: rgb(81, 185, 137);
+  &:hover {
+    color: rgb(29, 128, 1, 25%);
+    border: solid 1px rgb(29, 128, 1, 25%);
+    box-shadow: inset 0 0 15px rgba(255, 255, 255, 1);
+  }
+}
